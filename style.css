@@ -1,0 +1,11 @@
+.news-header{
+    
+    font-size: 80px;
+        /* font-weight: 900; */
+        text-align: center;
+        letter-spacing: 15px;
+}
+.red{
+    color: red;
+    font-weight: 900;
+}
